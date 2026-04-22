@@ -1,3 +1,7 @@
+***IMPORTANT****
+
+Notebook must be downloaded for it to work; it will not preview in Github. Dataset must also be downloaded.
+
 1 PROBLEM STATEMENT
 Data cleaning is essential for data analysis and exploration. The
 missing values, inconsistent data and human errors have been a huge
