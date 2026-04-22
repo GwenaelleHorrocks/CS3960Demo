@@ -21,6 +21,7 @@ well celebrated for data cleaning. Implementing and preforming a
 demonstration of openclean will be my central goal in this project.
 
 REFERENCES
+
 Data set for example was found on the Kaggle website. 
 
 [1] Hazim AbdElazim, Shadman Islam, and Mostafa Milani. 2026. The Human Factor
